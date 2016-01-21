@@ -17,3 +17,8 @@ This is a demo that can help you implete a effection--dragding and zooming pictu
     
   *Second:send the imageView and fatherView to ZHZoomModel
     - self.model = [[ZHZoomModel alloc] initWithItem:self.tableView andWithItemHeader:self.headerImageView];
+    - 
+
+
+#Display with Aniamtion
+![Alt Text](https://github.com/stackJolin/ZHDragZoomImage/blob/master/ZHDragZoomImage/zoomOut.gif)
